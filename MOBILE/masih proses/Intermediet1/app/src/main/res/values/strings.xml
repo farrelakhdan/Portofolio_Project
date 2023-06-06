@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Intermediet1</string>
+    <string name="nama">Nama</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">LOGIN</string>
+    <string name="register">REGISTER</string>
+    <string name="camera">CAMERA</string>
+    <string name="gallery">GALLERY</string>
+    <string name="upload">UPLOAD</string>
+    <string name="desc">Tuliskan deskripsi cerita anda</string>
+</resources>

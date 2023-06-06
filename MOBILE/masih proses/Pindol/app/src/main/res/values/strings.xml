@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Pindol</string>
+    <string name="login">login</string>
+    <string name="back">Back</string>
+    <string name="register">Register</string>
+    <string name="logout">Log Out</string>
+</resources>
